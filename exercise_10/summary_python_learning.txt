@@ -1,0 +1,11 @@
+I have started learning basic Python on March 2020. 
+My first program was Printing hello world.
+I have learned working with Variables and Simple Data Types.
+The next level was working with Lists and Dictionaries.
+I finished with learning how to use If statements.
+Then I have learned how to take User Input from command prompt and use While loop.
+Then I started with object oriented thinking by using Functions and modules.
+The last step was usage of Classes.
+I have finished with learning basic of Python.
+And currently I am learning how to handle exceptions and working with files.
+To be continued learning Python...
